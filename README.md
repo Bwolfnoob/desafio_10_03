@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-![](https://github.com/Bwolfnoob/desafio_10_03/blob/master/desafio_01_27.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Bwolfnoob/desafio_10_03/blob/master/desafio_01_27.mp4)
+
+![]()
 
 ![](https://github.com/Bwolfnoob/desafio_10_03/blob/master/photo_2019-03-08_20-59-02.jpg)
 
